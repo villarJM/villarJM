@@ -8,10 +8,10 @@ Actualmente estoy aprendiendo más sobre **Riverpod, CI/CD con GitHub Actions y 
 ---
 
 ## 🛠️ Tecnologías principales
-- **Lenguajes:** Dart · Kotlin · Swift · Java  
+- **Lenguajes:** Dart · Kotlin · Java  
 - **Frameworks:** Flutter · Firebase  
-- **Infraestructura:** REST APIs · GraphQL · Docker · CI/CD (GitHub Actions)  
-- **Herramientas:** Git · VS Code · Android Studio · Figma  
+- **Infraestructura:** REST APIs · Docker · CI/CD (GitHub Actions)  
+- **Herramientas:** Git · VS Code · Android Studio · Figma 
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
