@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Misael Villar  
-### 🚀 Desarrollador Móvil | Especialista en Flutter
+### 🚀 Desarrollador Móvil | Flutter | Android Nativo
 
 Soy desarrollador móvil con experiencia creando aplicaciones **multiplataforma** usando **Flutter y Dart**.  
 Me enfoco en construir **interfaces modernas**, con **arquitectura limpia** y alto rendimiento.  
